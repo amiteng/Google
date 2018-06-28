@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="cioreview" duration-ms="11181" started-at="2018-06-28T18:27:07Z" finished-at="2018-06-28T18:27:18Z">
+    <groups>
+    </groups>
+    <test name="Googles" duration-ms="11181" started-at="2018-06-28T18:27:07Z" finished-at="2018-06-28T18:27:18Z">
+      <class name="cioreview.Google">
+        <test-method status="PASS" signature="check()[pri:0, instance:cioreview.Google@1ceabc1]" name="check" duration-ms="11152" started-at="2018-06-28T23:57:07Z" finished-at="2018-06-28T23:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- cioreview.Google -->
+    </test> <!-- Googles -->
+  </suite> <!-- cioreview -->
+</testng-results>
