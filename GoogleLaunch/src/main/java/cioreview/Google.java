@@ -12,7 +12,7 @@ public class Google {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.gecko.driver","D:\\seleniumfile\\geckodriver-v0.21.0-win32\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
-		driver.get("https://www.google.com");
+		driver.get("https://www.gmail.com");
 	}
 
 }
